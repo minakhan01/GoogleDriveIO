@@ -141,15 +141,3 @@ def delete_file_by_name(drive, folderid, filename):
             file2.Trash()
             file2.UnTrash()
             file2.Delete()		
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
